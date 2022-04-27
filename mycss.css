@@ -11,7 +11,7 @@ div{border: none; background-color: white; border-radius: 20px;
 
 hr{border: solid 0.5px lightgray;}
 
-input{border: none; width: 400px ;height: 40px; margin: 0.5%;}
+input{border: none; width: 100% ;height: 40px; margin: 0.5%;}
 
 .desc{text-align: left; }
 
