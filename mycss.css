@@ -2,7 +2,7 @@
 
 body{float: center; background-color: gainsboro; }
 
-h1{font-family: "Organic Relief";text-align: center;}
+h1{font-family: "Organic Relief", sans-serif;text-align: center;}
 
 div{border: none; background-color: white; border-radius: 20px; 
 	width: 25%; box-shadow: 10px 10px 5px #aaaaaa;
